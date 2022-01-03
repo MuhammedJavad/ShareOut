@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/ShareOut.csproj": {}
+  },
+  "projects": {
+    "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/ShareOut.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/ShareOut.csproj",
+        "projectName": "ShareOut",
+        "projectPath": "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/ShareOut.csproj",
+        "packagesPath": "/home/muhammad/.nuget/packages/",
+        "outputPath": "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/muhammad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

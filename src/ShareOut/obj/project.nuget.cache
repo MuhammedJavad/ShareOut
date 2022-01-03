@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "zT+Oq8DXMTLD1uDp1VIjfbWej9pL4hec2kximBwe2o7I1KEc5bCsDaWYP8ZP6PsIxxonFdDFGe20QaI3Yzqj9Q==",
+  "success": true,
+  "projectFilePath": "/mnt/sda1/source/open-source/ShareOut/src/ShareOut/ShareOut.csproj",
+  "expectedPackageFiles": [
+    "/home/muhammad/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/pipelines.sockets.unofficial/2.2.0/pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/stackexchange.redis/2.2.88/stackexchange.redis.2.2.88.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.configuration.configurationmanager/5.0.0/system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.diagnostics.performancecounter/5.0.0/system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.drawing.common/5.0.0/system.drawing.common.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.io.pipelines/5.0.0/system.io.pipelines.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.security.cryptography.protecteddata/5.0.0/system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.security.permissions/5.0.0/system.security.permissions.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
